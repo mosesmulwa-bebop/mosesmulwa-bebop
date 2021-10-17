@@ -1,4 +1,4 @@
-[![Header](header.jpeg "Header")](https://mulwa.co,ke/)
+[![Header](header.jpeg "Header")](https://mulwa.co.ke/)
 
 ### Hi there 👋
 
