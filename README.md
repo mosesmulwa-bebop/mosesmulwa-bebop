@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+
+
+### 🔭 Papers
+Comparison of Sensitivity of Sallen-key and multiple feedback active filter design topologies due to component variation - https://www.academia.edu/51948424/Comparison_of_Sensitivity_of_Sallen_key_and_multiple_feedback_active_filter_design_topologies_due_to_component_variation
+
+
 ### ⚡ My stats: ...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosesmulwa-bebop&show_icons=true&theme=radical&count_private=true)
 
