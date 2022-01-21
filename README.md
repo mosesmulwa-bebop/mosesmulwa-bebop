@@ -9,11 +9,13 @@ My academic background is in Electronic and Computer Engineering, with experienc
 
 ### 👯 I’m looking to collaborate on ...
 • Embedded Systems Development
+• API Development
 • Web App Development
 • Software development in Python, JavaScript and C/C++
 • Flutter and Dart Application Development
 • Qiskit
 • Machine Learning and Deep Learning
+• Electronics Projects
 <!--
 **mosesmulwa-bebop/mosesmulwa-bebop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +42,7 @@ Comparison of Sensitivity of Sallen-key and multiple feedback active filter desi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmulwa-bebop&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 Ask me about ...
-Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication.
+API development, Data Structures,Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication.
 
 ### 📫 How to reach me: ...
 mosesmulwa123@gmail.com
