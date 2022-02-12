@@ -42,7 +42,7 @@ Comparison of Sensitivity of Sallen-key and multiple feedback active filter desi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmulwa-bebop&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 Ask me about ...
-API development, Data Structures,Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication.
+API development, Data Structures, Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication, STM32 😄 .
 
 ### 📫 How to reach me: ...
 mosesmulwa123@gmail.com
