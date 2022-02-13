@@ -13,7 +13,7 @@ My academic background is in Electronic and Computer Engineering, with experienc
 • Web App Development
 • Software development in Python, JavaScript and C/C++
 • Flutter and Dart Application Development
-• Qiskit
+• Backend Development
 • Machine Learning and Deep Learning
 • Electronics Projects
 <!--
