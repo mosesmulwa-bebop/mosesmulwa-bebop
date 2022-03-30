@@ -37,7 +37,6 @@ Comparison of Sensitivity of Sallen-key and multiple feedback active filter desi
 
 
 ### ⚡ My stats: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosesmulwa-bebop&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmulwa-bebop&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
