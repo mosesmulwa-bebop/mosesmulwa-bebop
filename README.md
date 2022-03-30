@@ -41,6 +41,28 @@ Comparison of Sensitivity of Sallen-key and multiple feedback active filter desi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmulwa-bebop&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+### :octocat: ⚡ My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=mosesmulwa-bebop&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mosesmulwa-bebop&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+    
+    
+
+    
+
+    
+  </tr>   
+  
+   
+   
+  
+  
+  </tr>
+  
+       
+  
+</table>
 ### 💬 Ask me about ...
 Computer Vision, Machine Learning, API development, Data Structures, Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication, STM32 😄 .
 
