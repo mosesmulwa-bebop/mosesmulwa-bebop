@@ -4,7 +4,7 @@
 
 ### 😄 
 I'm Moses Mulwa. A software developer and Hardware ,Firmware Engineer.
-My academic background is in Electronic and Computer Engineering, with experience spanning Embedded Development, Web Application Building, Machine Learning and Deep Learning, Project Management, and Leadership domains.
+My academic background is in Electronic and Computer Engineering, with experience spanning API Development, Embedded Development, Web Application Building, Machine Learning and Deep Learning, Project Management, and Leadership domains.
 
 
 ### 👯 I’m looking to collaborate on ...
