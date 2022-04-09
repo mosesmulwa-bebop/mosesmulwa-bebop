@@ -64,7 +64,7 @@ Comparison of Sensitivity of Sallen-key and multiple feedback active filter desi
 </table>
 
 ### 💬 Ask me about ...
-Computer Vision, Machine Learning, API development, Data Structures, Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication, STM32 😄 .
+Computer Vision, Machine Learning, API development, Data Structures, Quantum Computing, Image compresssion, Embedded systems, Deep Learning,Long Range Radio Communication, STM32 , Nanosatellite Development😄 .
 
 ### 📫 How to reach me: ...
 mosesmulwa123@gmail.com
