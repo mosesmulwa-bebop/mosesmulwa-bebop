@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### 😄 
-I'm Moses Mulwa. A software developer and Hardware ,Firmware Engineer.
+I'm Moses Mulwa. A software developer, machine learning engineer, and Hardware ,Firmware Engineer.
 My academic background is in Electronic and Computer Engineering, with experience spanning API Development, Embedded Development, Web Application Building, Machine Learning and Deep Learning, Project Management, and Leadership domains.
 
 
